@@ -1,7 +1,10 @@
-enum Seat {
-  middle,
-  row,
-  front
+enum Direction {
+  Up,
+  Down,
+  Left,
+  Right 
 }
 
-const val = Seat.middle
+const userDir = Direction.Up
+
+console.log(userDir);

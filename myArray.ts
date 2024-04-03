@@ -14,3 +14,6 @@
 // superHeros.push('spiderman')
 
 // allUsers.push({name:'',isActive:true})
+
+
+let arr :Array <number>  = [1,23,334,]
